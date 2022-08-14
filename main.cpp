@@ -1,7 +1,6 @@
 
 #include "vg_controller.h"
 
-
 int main()
 {
     VG_controller vg_controller;
